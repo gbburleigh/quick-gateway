@@ -7,7 +7,7 @@ Quick Gateway is a simple gateway for processing payments. It is designed to be 
 ### Installation
 
 ```bash
-go get github.com/quick-gateway/quick-gateway
+go get github.com/gbburleigh/quick-gateway
 ```
 
 
